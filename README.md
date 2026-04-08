@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Sakib (sakibdev-code)
 
-<!--
-**sakibdev-coder/sakibdev-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀
+I'm a passionate developer who loves building useful, creative, and efficient solutions through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 💡 Interested in software development & problem solving
+* 🌱 Currently learning new technologies and improving my coding skills
+* 🔧 Love working on real-world projects
+* 🎯 Goal: Become a skilled full-stack developer
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Languages: JavaScript, Python, C/C++
+* 🌐 Web: HTML, CSS, React (learning/using)
+* ⚙️ Tools: Git, GitHub, VS Code
+
+---
+
+## 📂 Projects
+
+Here are some of my featured projects:
+
+* 🔹 Project Name 1 – Short description
+* 🔹 Project Name 2 – Short description
+* 🔹 Project Name 3 – Short description
+
+👉 Check my repositories for more!
+
+---
+
+## 📈 GitHub Stats
+
+![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakibdev-code\&show_icons=true\&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💬 Facebook / LinkedIn: (Add your link)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy learning new things and turning ideas into reality through coding!
+
+---
+
+⭐️ Don’t forget to follow me and check out my repositories!
