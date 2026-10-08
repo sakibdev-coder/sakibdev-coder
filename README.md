@@ -43,7 +43,8 @@ Here are some of my featured projects:
 ## 📫 Contact Me
 
 * 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💬 Facebook / LinkedIn: (Add your link)
+* 💬 Facebook https://www.facebook.com/nx.sakib.508341
+* 💬 Linkedin https://www.linkedin.com/in/sakib-al-hasan-465342311/?isSelfProfile=true
 
 ---
 
